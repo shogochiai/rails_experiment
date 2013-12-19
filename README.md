@@ -181,3 +181,11 @@ ruby2.1.0×rails3.2.15が0.7倍ほどの時間で済んでいる点、
 
 ruby2.1.0ではspringによる速度向上があまり見られませんが、springが最適化されると更に早くなることもある…のでしょうか？(自信ない)
 
+
+#ライセンス
+
+License
+
+(The GPL license)
+
+Copyright (c) 2013 Shogo Ochiai

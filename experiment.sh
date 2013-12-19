@@ -1,3 +1,6 @@
+# Copyright 2013, Shogo Ochiai
+# Licensed under the GPL licenses. 
+
 #!/bin/zsh
 
 RUBY=("1.9.3-p484" "2.0.0-p353" "2.1.0-preview1") 
